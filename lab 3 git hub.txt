@@ -1,0 +1,4 @@
+1.Voltmeter with LCD : ///https://www.allaboutcircuits.com/projects/make-a-digital-voltmeter-using-the-arduino/
+2. ohmmeter with lcd : ////https://www.circuitbasics.com/arduino-ohm-meter/
+3.DHT11 with LCD : ////https://youtu.be/bB1RChYdR5A 
+4. Ultrasonic and DHT with LCD ///https://youtu.be/ZejQOX69K5M
